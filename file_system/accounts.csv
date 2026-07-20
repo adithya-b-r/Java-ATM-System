@@ -1,0 +1,4 @@
+cardNumber,pin,name,balance,status
+100001,1234,Adithya,40000,ACTIVE
+100002,4567,John,5000,ACTIVE
+100003,9876,Tom,1900,ACTIVE
